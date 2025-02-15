@@ -20,7 +20,7 @@ Before installing and running this project, ensure you have:
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-github-username/wine-recommendation-system.git
+git clone https://github.com/BeatBard/azure-rag.git
 cd wine-recommendation-system
 ```
 
